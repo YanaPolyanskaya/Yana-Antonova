@@ -34,16 +34,11 @@
  <div>
    <h2>:hammer_and_wrench: Языки и инструменты</h2>
    <div align="center">
-    <img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" title="react"/>&nbsp;
     <img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" title="git"/>&nbsp;
     <img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" title="nodejs"/>&nbsp;
-    <img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript"/>&nbsp;
     <img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" title="html"/>&nbsp;
     <img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css" title="css"/>&nbsp;
-    <img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" title="redux"/>&nbsp;
     <img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" title="figma"/>&nbsp;
-    <img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" title="typescript"/>&nbsp;
     <img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" title="vscode"/>&nbsp;
-    <img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="webpack" title="webpack"/>&nbsp;
    </div>
  </div>
